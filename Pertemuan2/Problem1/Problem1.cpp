@@ -26,7 +26,7 @@ void generatePayslip(string name, double baseSalary, double percentage, double i
 }
 
 int main() {
-    string name = "Kaesang Anjing";
+    string name = "John Doe";
     double baseSalary = 15000000.00;  // Base salary
     double percentage = 100;  // 100% of the base salary
     double installment = 200000.00;
