@@ -1,0 +1,31 @@
+//input
+
+3                                     
+
+Data barang 1				    
+=============
+Kode barang: 111
+Nama barang: esKrim
+Harga barang: 3000
+Jumlah barang: 2
+
+Data barang 2
+=============
+Kode barang: 112
+Nama barang: kopiBubuk
+Harga barang: 35000
+Jumlah barang: 1
+
+Data barang 3
+=============
+Kode barang: 113
+Nama barang: looseLeaf
+Harga barang: 12500
+Jumlah barang: 4
+
+---------------------
+//expected output
+
+7
+
+13000
