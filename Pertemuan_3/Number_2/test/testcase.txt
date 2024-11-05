@@ -1,0 +1,4 @@
+//input					//output
+bilangan1: 1				bilangan terbesar adalah 3
+bilangan2: 2
+bilangan3: 3

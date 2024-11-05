@@ -1,0 +1,4 @@
+//input			//output
+a = 1			-0 + 1i
+b = 0			-0 - 1i
+c = 1			akar-akar yang dihasilkan adalah imajiner
