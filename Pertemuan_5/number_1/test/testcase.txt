@@ -1,0 +1,9 @@
+//input					//output
+i = 100 perulangan			1
+					2
+					Fizz --> perulangan ketiga
+					...
+					Buzz --> perulangan kelima
+					6
+					...
+					FizzBuzz --> perulangan kelima belas
