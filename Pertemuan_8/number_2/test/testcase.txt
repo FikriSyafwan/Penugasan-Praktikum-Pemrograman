@@ -1,0 +1,3 @@
+//input						               //output
+n = 5 --> jumlah elemen dalam array		    1 + 2 + 3 + 4 + 5 
+num[] = {1, 2, 3, 4, 5}			        	rata-rata = 3

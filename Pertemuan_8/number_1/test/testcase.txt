@@ -1,0 +1,3 @@
+//input					//output
+Angka ke-n				1 + 1 + 2 + 3 + {5} + ....	
+dengan n = 5				hasil yang dikeluarkan = 5 
